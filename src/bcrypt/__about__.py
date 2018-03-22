@@ -22,7 +22,7 @@ __all__ = [
     "__email__", "__license__", "__copyright__",
 ]
 
-__title__ = "bcrypt"
+__title__ = "bcrypt-markjeee"
 __summary__ = "Modern password hashing for your software and your servers"
 __uri__ = "https://github.com/pyca/bcrypt/"
 
